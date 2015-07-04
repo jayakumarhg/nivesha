@@ -23,6 +23,12 @@ Kāguṇita (OS X) keyboard layout was created using [Ukelele](http://scripts.si
 
 3. Add `Kagunita` keyboard layout via _System Preferences > Keyboard > Input Sources_
 
+### USAGE
+
+To familiarize one-self with Kagunita's phonetic mapping, use the OS X Keyboard Viewer. See the [support page for Keyboard Viewer](https://support.apple.com/kb/PH18449) for details. Press `shift` and/or `alt` and see the mapping changes.
+
+To get an idea without the Keyboard Viewer, typing "yav mohn murLi kreyito dUr tIrke ninfnnu" will input "ಯಾವ ಮೊಹನ ಮುರಳಿ ಕರೆಯಿತೊ ದೂರ ತೀರಕ ನಿನ್ನನು".
+
 ### LICENSE
 
 Kāguṇita (OS X) keyboard layout is available under [MIT](http://opensource.org/licenses/MIT) license.
