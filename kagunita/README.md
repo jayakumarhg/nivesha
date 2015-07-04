@@ -13,7 +13,6 @@ Kāguṇita (OS X) keyboard layout was created using [Ukelele](http://scripts.si
 
 ### INSTALLATION
 
-
 1. Execute the following commands:
 
        $ cp -R osx/Kagunita.bundle ~/Library/Keyboard\ Layouts/
@@ -25,6 +24,7 @@ Kāguṇita (OS X) keyboard layout was created using [Ukelele](http://scripts.si
 3. Add `Kagunita` keyboard layout via _System Preferences > Keyboard > Input Sources_
 
 ### LICENSE
+
 Kāguṇita (OS X) keyboard layout is available under [MIT](http://opensource.org/licenses/MIT) license.
 
 

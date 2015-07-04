@@ -5,15 +5,16 @@ Nivēśa :: Āṅglā
 
 The standard English keyboard layouts in OS X are named after regions like U.S., British, Irish, etc. And when the input method is shown in the menubar, it displays the region's flag! If anyone outside these regions wants to use English, they are forced to select one of these keyboard layouts and cringe! Āṅglā fixes this issue :)
 
-`English.bundle` is essentially a copy of `U.S.` keyboard layout with a cleaner name `English` and no US flag as icon."
+`English.bundle` is essentially a copy of `U.S.` keyboard layout with a cleaner name `English` and no US flag as icon.
 
-`Aangla.bundle` is again a copy of `U.S.` keyboard layout with Indian flag (instead of US flag) and Indic name `Aangla`.
+`Aangla.bundle` is again a copy of `U.S.` keyboard layout with the Indian flag as icon (instead of US flag) and an Indic name `Aangla`.
 
 Āṅglā keyboard layouts were created using [Ukelele](http://scripts.sil.org/ukelele).
 
 ## INSTALLATION
 
 * __Install English keyboard layout__  
+
   1. Execute the following command:
   
          sudo cp -R English.bundle /Library/Keyboard\ Layouts/
@@ -22,7 +23,8 @@ The standard English keyboard layouts in OS X are named after regions like U.S.,
   
   3. Add the new `English` keyboard layout via _System Preferences > Keyboard > Input Sources_
   
-* __Install Aangla keyboard layout__  
+* __Install Aangla keyboard layout__
+  
   1. Execute the following command: 
   
          sudo cp -R Aangla.bundle /Library/Keyboard\ Layouts/
