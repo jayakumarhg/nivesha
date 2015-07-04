@@ -13,32 +13,34 @@ The standard English keyboard layouts in OS X are named after regions like U.S.,
 
 ## INSTALLATION
 
-* __Install English keyboard layout__  
+### __Install English keyboard layout__  
 
   1. Execute the following command:
   
-         sudo cp -R English.bundle /Library/Keyboard\ Layouts/
+        sudo cp -R English.bundle /Library/Keyboard\ Layouts/
          
   2. Restart OS X
   
   3. Add the new `English` keyboard layout via _System Preferences > Keyboard > Input Sources_
   
-* __Install Aangla keyboard layout__
+### __Install Aangla keyboard layout__
   
   1. Execute the following command: 
   
-         sudo cp -R Aangla.bundle /Library/Keyboard\ Layouts/
+        sudo cp -R Aangla.bundle /Library/Keyboard\ Layouts/
          
   2. Restart OS X
   
   3. Add the `Aangla` keyboard layout in *System Preferences > Keyboard > Input Sources*
   
-* __( Optional ) Change the default OS X keyboard layout__  
+### __( OPTIONAL ) Change the default OS X keyboard layout__  
   
-  WARNING: This will cause your OS X setup to run again. Existing user data is __not__ affected. However it may force you to re-enter your WiFi password and create a new user account.
+  __WARNING__: This will cause your OS X setup to run again. Existing user data is __not__ affected. However it may force you to re-enter your WiFi password and create a new user account.
   
-  1. Execute the command: `sudo rm /var/db/.AppleSetupDone` 
+  1. Execute the command: `sudo rm /var/db/.AppleSetupDone`
+   
   2. Restart OS X
+  
   3. Choose the `English` or `Aangla` keyboard layout in the setup process
 
 
